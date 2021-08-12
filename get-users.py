@@ -1,4 +1,3 @@
-from os import name
 import threading
 import time
 import requests
@@ -11,7 +10,7 @@ class myThread (threading.Thread):
         self.counter = counter
     def run(self):
         print("Starting "+self.name)
-        savetofile(name)
+        savetofile(self.name)
         print("Exiting "+self.name)
 
 def savetofile(filename):
@@ -23,4 +22,5 @@ def savetofile(filename):
                         if(r.json()["users"]!=[None]):
                                 f.write(r.text+'\n')
 for i in range(0,1000000,2000):
-        exec("thread%s=myThread(%d,'%s',%d),thread%s.run()"%(i,i,i,i,i))
+        exec("thread%s=myThread(%d,'%s',%d)"%(i,i,i,i))
+        exec("thread%s.run()"%i)
