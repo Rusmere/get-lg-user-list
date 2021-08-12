@@ -23,4 +23,4 @@ def savetofile(filename):
                                 f.write(r.text+'\n')
 
 for i in range(0,1000000,2000):
-        exec("thread%s=myThread(%d,"%s",%d)"%(i,i,i,i))
+        exec("thread%s=myThread(%d,'%s',%d)"%(i,i,i,i))
