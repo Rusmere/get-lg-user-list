@@ -23,4 +23,4 @@ def savetofile(filename):
                         if(r.json()["users"]!=[None]):
                                 f.write(r.text+'\n')
 for i in range(0,1000000,2000):
-        exec("thread%s=myThread(%d,'%s',%d),thread%s.start()"%(i,i,i,i,i))
+        exec("thread%s=myThread(%d,'%s',%d),thread%s.run()"%(i,i,i,i,i))
