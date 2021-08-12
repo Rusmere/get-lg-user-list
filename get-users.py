@@ -9,9 +9,9 @@ class myThread (threading.Thread):
         self.name = name
         self.counter = counter
     def run(self):
-        print "Starting " + self.name
+        print("Starting "+self.name)
         savetofile(name)
-        print "Exiting " + self.name
+        print("Exiting "+self.name)
 
 def savetofile(filename):
         with open(filename,'w+') as f:
