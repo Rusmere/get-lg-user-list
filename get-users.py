@@ -22,9 +22,5 @@ def savetofile(filename):
                         r=requests.get('https://www.luogu.com.cn/api/user/search',params=p,headers=h)
                         if(r.json()["users"]!=[None]):
                                 f.write(r.text+'\n')
-def main():
-        for i in range(0,1000000,2000):
-                exec("thread%s=myThread(%d,'%s',%d),thread%s.start()"%(i,i,i,i,i))
-
-if __name__ == '__main__':
-    main()
+for i in range(0,1000000,2000):
+        exec("thread%s=myThread(%d,'%s',%d),thread%s.start()"%(i,i,i,i,i))
