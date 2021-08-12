@@ -23,6 +23,8 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
+    - name: Installing requests
+      run: sudo pip install requests
     - name: Get user list
       run: python get-users.py
     - name: commit
@@ -33,9 +35,6 @@ jobs:
         git commit -m "update" -a
 
       # Runs a single command using the runners shell
-    - name: Installing requests
-      run: sudo pip install requests
-      
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
