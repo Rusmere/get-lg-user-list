@@ -9,7 +9,6 @@ for i in range(0,1000,200):
     r=requests.get('https://www.luogu.com.cn/api/user/search',params=p,headers=h)
     if(r.json()["users"]!=[None]):
       print("UID:%s"%i)
-      r.text+='\n'
-      exec("file%s.write(r.text)"%i)
+      exec("file%s.write(r.text),file%s.write('\n')"%(i,i))
   except TimeoutError:
     exec("file%s.close()"%i)
