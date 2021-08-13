@@ -5,9 +5,9 @@ s = requests.Session()
 s.mount('http://', HTTPAdapter(max_retries=4))
 s.mount('https://', HTTPAdapter(max_retries=4))
 start=time.time()
-for i in range(100,300,100):
-  for j in range(i-100,i):
-    if(j==i-100):
+for i in range(200,1000,200):
+  for j in range(i-200,i):
+    if(j==i-200):
       exec("file%s=open('%s','w+')"%(i,i))
     p={"keyword":j}
     h={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"}
