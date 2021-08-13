@@ -24,4 +24,4 @@ def savetofile(filename):
                                 time.sleep(0.1)
 for i in range(0,1000000,2000):
         exec("thread%s=myThread(%d,'%s',%d)"%(i,i,i,i))
-        exec("thread%s.run()"%i)
+        exec("thread%s.start()"%i)
