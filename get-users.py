@@ -2,7 +2,7 @@ import threading
 import time
 import requests
 start=time.time()
-for i in range(100,300,100):
+for i in range(100,10000,100):
   for j in range(i-100,i):
     if(j==i-100):
       exec("file%s=open('%s','w+')"%(i,i))
