@@ -17,4 +17,5 @@ for i in range(100,300,100):
           exec("file%s.close()"%i)
     except requests.exceptions.ConnectionError:
       print("Connection Error.")
-print("Done,Time=%d"%float(time.time())-start)
+end=time.time()
+print("Done,Time=%d"%(end-start))
