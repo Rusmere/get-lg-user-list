@@ -945,7 +945,7 @@
 {"users":[{"uid":120944,"name":"\u9752\u5ddd","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Blue","ccfLevel":0}]}
 {"users":[{"uid":120945,"name":"barryzhu","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":120946,"name":"XQwgx","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
-{"users":[{"uid":120947,"name":"Ma_Zhixian","slogan":"\u5377\u5377\u5377","badge":null,"isAdmin":false,"isBanned":false,"color":"Red","ccfLevel":6}]}
+{"users":[{"uid":120947,"name":"Ma_Zhixian","slogan":"https:\/\/www.luogu.com.cn\/record\/49592700 \u5f00\u773c","badge":null,"isAdmin":false,"isBanned":false,"color":"Red","ccfLevel":6}]}
 {"users":[{"uid":120948,"name":"dbmc","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":120949,"name":"lizitong","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":120950,"name":"\u6d45\u591c_MISAKI","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Blue","ccfLevel":0}]}
@@ -2067,7 +2067,7 @@
 {"users":[{"uid":122066,"name":"mother_f_u_c_k","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":122067,"name":"diqiuguying","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":122068,"name":"\u53ea\u77ed\u6d45\u957f","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
-{"users":[{"uid":122069,"name":"\u8309\u8389\u96e8\u4e0b\u7684\u4f60","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
+{"users":[{"uid":122069,"name":"\u83b2\u5b50\u6e05\u5982\u6c34","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":122070,"name":"\u9ad8\u5a1c","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":122071,"name":"\u591c\u96e8\u5203","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":122072,"name":"ykyyyy","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
@@ -4916,7 +4916,7 @@
 {"users":[{"uid":124915,"name":"guyan","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Blue","ccfLevel":0}]}
 {"users":[{"uid":124916,"name":"tau_5","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":124917,"name":"sanguinolent","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
-{"users":[{"uid":124918,"name":"lcb9021","slogan":"","badge":"","isAdmin":false,"isBanned":false,"color":"Green","ccfLevel":5}]}
+{"users":[{"uid":124918,"name":"LinkyChristian","slogan":"","badge":"","isAdmin":false,"isBanned":false,"color":"Green","ccfLevel":5}]}
 {"users":[{"uid":124919,"name":"cc18955567110","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":124920,"name":"Temp_01","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":124921,"name":"cccsdfz","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
@@ -7887,7 +7887,7 @@
 {"users":[{"uid":127886,"name":"\u4e00\u6728","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":127887,"name":"\u9ec4\u4e2d\u5362\u626c\u5b50","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":127888,"name":"quqquq","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Blue","ccfLevel":0}]}
-{"users":[{"uid":127889,"name":"Operator_and","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
+{"users":[{"uid":127889,"name":"hamjin","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":127890,"name":"airsoon","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":127891,"name":"langdeyipi2","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":127892,"name":"lemon\u96ea","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
@@ -14615,9 +14615,6 @@
 {"users":[{"uid":134614,"name":"\u7b97\u4e86__march","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Blue","ccfLevel":0}]}
 {"users":[{"uid":134615,"name":"qlxyssd","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":134616,"name":"yangjiaqi1234","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
-{"users":[{"uid":134617,"name":"MeToo","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
-{"users":[{"uid":134618,"name":"fanyuan","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
-{"users":[{"uid":134619,"name":"rlc3346237067","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":134620,"name":"jin015078682310","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":134621,"name":"wuhoujin","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":134622,"name":"xinhyuan","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
@@ -17240,7 +17237,7 @@
 {"users":[{"uid":137239,"name":"lzl_lszx","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":137240,"name":"wangberber","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":137241,"name":"_Xolotl_","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Blue","ccfLevel":0}]}
-{"users":[{"uid":137242,"name":"Dia\u043esi","slogan":"\u719f\u6089\u53c8\u611f\u89c9\u964c\u751f\u5982\u6b64\u65b0\u9c9c","badge":null,"isAdmin":false,"isBanned":false,"color":"Orange","ccfLevel":0}]}
+{"users":[{"uid":137242,"name":"Dia\u043esi","slogan":"\u719f\u6089\u53c8\u611f\u89c9\u964c\u751f\u5982\u6b64\u65b0\u9c9c","badge":null,"isAdmin":false,"isBanned":false,"color":"Orange","ccfLevel":4}]}
 {"users":[{"uid":137243,"name":"TKONIY","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":137244,"name":"\u67ab\u53f6\u4e91","slogan":"","badge":"","isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
 {"users":[{"uid":137245,"name":"fengguanhao","slogan":"","badge":null,"isAdmin":false,"isBanned":false,"color":"Gray","ccfLevel":0}]}
