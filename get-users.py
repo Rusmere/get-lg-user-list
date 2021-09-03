@@ -5,7 +5,7 @@ s = requests.Session()
 s.mount('http://', HTTPAdapter(max_retries=4))
 s.mount('https://', HTTPAdapter(max_retries=4))
 start=time.time()
-for i in range(160000,200000,20000):
+for i in range(200000,240000,20000):
   for j in range(i-20000,i):
     if(j==i-20000):
       exec("file%s=open('%s','w+')"%(i,i))
