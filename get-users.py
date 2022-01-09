@@ -22,5 +22,7 @@ for i in range(400000,420000,20000):
       print("Connection Error.")
     except socket.timeout:
       print("Socket timeout.")
+    except KeyError:
+      print("Keyerror(handled)")
       
 print("Done,Time=%d"%(float(time.time())-start))
