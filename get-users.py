@@ -12,7 +12,7 @@ for i in range(400000,420000,20000):
     p={"keyword":j}
     h={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"}
     try:
-      r=s.get('https://www.luogu.com.cn/api/user/search',params=p,headers=h,timeout=15)
+      r=s.get('https://www.luogu.com.cn/api/user/search',params=p,headers=h,timeout=20)
       if(r.json()["users"]!=[None]):
         print("Get UID:%s"%j)
         exec(r"file%s.write(r.text+'\n')"%(i))
